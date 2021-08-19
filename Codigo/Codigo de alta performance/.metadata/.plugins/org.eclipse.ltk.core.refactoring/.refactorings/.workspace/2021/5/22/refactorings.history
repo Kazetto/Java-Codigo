@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;ListaEncadeadaSimples2SIA&apos; to &apos;ListaEncadeada#2&apos;&#x0D;&#x0A;- Original element: &apos;ListaEncadeadaSimples2SIA&apos;&#x0D;&#x0A;- Renamed element: &apos;ListaEncadeadaSimples2SIA&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;ListaEncadeadaSimples2SIA&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=ListaEncadeadaSimples2SIA" name="ListaEncadeada#2" references="true" stamp="1621865660449" version="1.0"/>
+</session>

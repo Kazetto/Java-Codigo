@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Processamento.java&apos; to &apos;FilaEncadeada/src/exercicios02&apos;&#x0D;&#x0A;- Original project: &apos;FilaSequencial_2SIC&apos;&#x0D;&#x0A;- Destination element: &apos;FilaEncadeada/src/exercicios02&apos;&#x0D;&#x0A;- Original element: &apos;exercicio4.Processamento.java&apos;" description="Copy compilation unit" destination="=FilaEncadeada/src&lt;exercicios02" element1="/src&lt;exercicio4{Processamento.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1621258248841" units="1" version="1.0"/>
+</session>

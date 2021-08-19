@@ -1,0 +1,19 @@
+package aula01;
+
+public class Ex01 {
+
+	public static void main(String[] args) {
+		int soma;
+		soma = fat(145);
+		System.out.println("Somatório = " + soma);
+
+	}
+
+	public static int fat(int n) {
+		if (n != 0)
+			return (n * fat(n - 1));
+		else
+			return (1);
+	}
+
+}

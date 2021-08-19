@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\Keigo\Desktop\EAD\PortoNac1"/>
+			<item value="C:\Users\Keigo\Downloads\FilaEncadeada2SIC"/>
+			<item value="C:\Users\Keigo\Downloads\ListaEncadeadaSimples2SIC"/>
+			<item value="C:\Users\Keigo\Downloads\ListaEncadeadaSimples2SIA"/>
+			<item value="C:\Users\Keigo\Desktop\PortoNac1"/>
+			<item value="C:\Users\Keigo\Downloads\FilaSequencial_2SIC"/>
+			<item value="C:\Users\Keigo\Downloads\PortoNac1"/>
+			<item value="C:\Users\Keigo\Downloads\estrutura-dados-algoritmos-java-master\estrutura-dados-algoritmos-java-master\src"/>
+			<item value="C:\Users\Keigo\Downloads\Assunto2_Pilha2SIC_Exercicios (1)"/>
+		</list>
+	</section>
+	<section name="ExternalProjectImportWizard">
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+</section>

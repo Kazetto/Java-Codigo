@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.sun.java_cup.internal.runtime.Scanner"/>
+    <fullyQualifiedTypeName name="PlanilhaTipoAluno.TipoAluno"/>
+    <fullyQualifiedTypeName name="TiposPilhaSequencial.TipoPilhaInt"/>
+    <fullyQualifiedTypeName name="TiposPilhaSequencial.TipoPilhaChar"/>
+    <fullyQualifiedTypeName name="porto.TipoContainer"/>
+    <fullyQualifiedTypeName name="porto.Conteiner"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="java.util.Vector"/>
+    <fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthOptionPaneUI"/>
+    <fullyQualifiedTypeName name="java.util.Stack"/>
+    <fullyQualifiedTypeName name="porto.TipoPilhaConteiner2"/>
+    <fullyQualifiedTypeName name="porto.TipoPilhaAux"/>
+    <fullyQualifiedTypeName name="container.Conteiner"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+    <fullyQualifiedTypeName name="java.lang.Void"/>
+    <fullyQualifiedTypeName name="tipoAluno.TipoAluno"/>
+    <fullyQualifiedTypeName name="TiposPilhaSequencial.TipoPilhaAluno"/>
+    <fullyQualifiedTypeName name="porto.TipoPilhaConteiner"/>
+    <fullyQualifiedTypeName name="java.security.PublicKey"/>
+    <fullyQualifiedTypeName name="tipoConteiner.TipoContainer"/>
+    <fullyQualifiedTypeName name="filaSequenciais.FilaInt"/>
+    <fullyQualifiedTypeName name="pilhaSequencial.PilhaMensagens"/>
+    <fullyQualifiedTypeName name="pilhaSequencial.Usuario"/>
+    <fullyQualifiedTypeName name="aula08.TipoFilaInt"/>
+    <fullyQualifiedTypeName name="filasSequenciais.FilaPacientes"/>
+    <fullyQualifiedTypeName name="Elemento"/>
+    <fullyQualifiedTypeName name="atendaAluno.Aluno"/>
+    <fullyQualifiedTypeName name="exemplos2.NoLista"/>
+    <fullyQualifiedTypeName name="NAC.FilaChar"/>
+    <fullyQualifiedTypeName name="filasEncadeadas.FilaInt"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="listasEncadeadas.ListaEncadeada"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="marketplace.FilaPreVenda"/>
+    <fullyQualifiedTypeName name="marketplace.Cliente"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="marketplace.App"/>
+    <fullyQualifiedTypeName name="java.lang.Comparable"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="marketplace.ListaModelos.NO"/>
+    <fullyQualifiedTypeName name="marketplace.ListaModelos"/>
+    <fullyQualifiedTypeName name="marketplace.PontoDeVenda"/>
+</qualifiedTypeNameHistroy>
